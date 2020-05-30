@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3e8154f5-16ba-4a44-874c-c6951a782426" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CSS/slide.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../departments.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../images/4565.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../images/Black Nurse TeleDoc 2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../images/Black Nurse and Patient .jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../images/Gym.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../images/Hospital.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../images/Page Not Found.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../images/S1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../images/about-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../images/accounts.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../images/admission.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../images/amazon (1).svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../images/amb1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../images/ambulance.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../images/baby.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../images/belonav.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../images/bg-2 (1).svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../images/bg-8.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../images/bg12.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../images/bitcoin.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../images/conference.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../images/contact.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../images/contactus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../images/group.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../images/header-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../images/maestro.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../images/mastercard.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../images/men.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../images/news-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../images/nutrition.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../images/office.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../images/paypal.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../images/pere.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../images/service-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../images/shopify.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../images/surg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../images/visa.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../inpatient.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../outpatient.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animate.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baguetteBox.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/responsive.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../images/continueshopping.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../images/phamslid2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../images/phaslide1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../images/phl2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../images/phmaslide3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../images/phsl1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../images/shop/1382.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../images/shop/14554.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../images/shop/14681.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../images/shop/14946.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../images/shop/15101.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../images/shop/2099.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../images/shop/2631.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../images/shop/3514.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../images/shopping-cart.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js/addjs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js/baguetteBox.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js/contact-form-script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js/custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js/form-validator.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js/images-loded.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js/isotope.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js/jquery-3.0.0.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js/jquery-3.2.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js/jquery.mapify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js/jquery.superslides.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js/legacy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js/owl.animate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js/owl.autoheight.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js/owl.autoplay.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js/owl.autorefresh.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js/owl.carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js/owl.hash.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js/owl.lazyload.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js/owl.navigation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js/owl.video.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js/picker.date.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js/picker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js/picker.time.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js/popper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js/smooth-scroll.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../styles/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../styles/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../styles/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../styles/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../styles/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../styles/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../styles/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../styles/fontawesome-free-5.0.1/css/fontawesome-all.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../styles/fontawesome-free-5.0.1/webfonts/fa-brands-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../styles/fontawesome-free-5.0.1/webfonts/fa-brands-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../styles/fontawesome-free-5.0.1/webfonts/fa-brands-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../styles/fontawesome-free-5.0.1/webfonts/fa-brands-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../styles/fontawesome-free-5.0.1/webfonts/fa-brands-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../styles/fontawesome-free-5.0.1/webfonts/fa-regular-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../styles/fontawesome-free-5.0.1/webfonts/fa-regular-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../styles/fontawesome-free-5.0.1/webfonts/fa-regular-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../styles/fontawesome-free-5.0.1/webfonts/fa-regular-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../styles/fontawesome-free-5.0.1/webfonts/fa-regular-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../styles/fontawesome-free-5.0.1/webfonts/fa-solid-900.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../styles/fontawesome-free-5.0.1/webfonts/fa-solid-900.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../styles/fontawesome-free-5.0.1/webfonts/fa-solid-900.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../styles/fontawesome-free-5.0.1/webfonts/fa-solid-900.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../styles/fontawesome-free-5.0.1/webfonts/fa-solid-900.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../styles/fontawesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../styles/owl.carousel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../styles/owl.theme.default.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../styles/owl.theme.green.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../styles/phamarcystyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../styles/responsive.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../styles/superslides.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../swipe/css/swiper.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../swipe/css/swiper.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../swipe/js/swiper.esm.browser.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../swipe/js/swiper.esm.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../swipe/js/swiper.esm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../swipe/js/swiper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../swipe/js/swiper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../swipe/js/swiper.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../services.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../specialservices.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSS/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSS/Style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Telemedicine" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../signup_form.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../signup_form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../slider.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../style.css" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="743" />
+    <option name="y" value="21" />
+    <option name="width" value="845" />
+    <option name="height" value="876" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="css" type="b2602c69:ProjectViewProjectNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="C:/xampp/htdocs/officialndula" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e8154f5-16ba-4a44-874c-c6951a782426" name="Default Changelist" comment="" />
+      <created>1590784974472</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590784974472</updated>
+      <workItem from="1590784975831" duration="49000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="49000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
